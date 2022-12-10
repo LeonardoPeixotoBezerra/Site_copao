@@ -1,0 +1,34 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+          background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgESedHJvSJegXPN5eLwDTIwha-2WLnCooQXyCxKv0EIvGFFumi_PkgyFPu4G9GhWQwvjJu_TFO8eRH8vVXke5QVZJD6pwHcLxft3XnpoR-hX53QWiGOHAoU6TqKNg2X6hayNBNDHxuPBemdAFmaeV5KzDqKyC-nzCU2hfQt-6b8C2iXkqr9IJoAj6F/s2120/Bomba%20Patch%20Geomatrix%20(Agosto)%202022.png');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: 100% 100%;
+}
+td {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h3{
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+
+a {
+    font-family: 'Open Sans', sans-serif;
+}
+#titulo{
+    color: white;
+}
+.bg{
+    background-color: rgba(0, 0, 0, 0.548);
+    border: solid 2.5px black;
+}
+img{
+    height: 100vh;
+    width: 100%;
+}
